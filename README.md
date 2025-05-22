@@ -11,40 +11,14 @@ inspired by [awesome-tw-foss](https://github.com/tjwei/awesome-tw-foss)
 * The code must have CI, enough testing, and documentation.
 * If the platform supports a package manager, it can be installed by a package manager.
 
-## Python
-* [Wand](https://github.com/dahlia/wand) The ctypes-based simple ImageMagick binding for Python http://wand-py.org/
-* [libsass-python](https://github.com/dahlia/libsass-python) A straightforward binding of libsass for Python. Compile Sass/SCSS in Python with no Ruby stack at all! http://hongminhee.org/libsass-python/
-* [Hangulize](https://github.com/sublee/hangulize) Korean Alphabet Transcription
-* [konlpy](https://github.com/konlpy/konlpy) Python package for Korean natural language processing. http://konlpy.org
-* [plate](https://github.com/Plate-Project/plate) API documentations tool based on Markdown(md) using Python. http://plate.readthedocs.io/
+| Project                                                          | Description                                                 | Language | Star |
+| ---------------------------------------------------------------- | ----------------------------------------------------------- | -------- | ---- |
+| [Landscapist](https://github.com/skydoves/landscapist)           | Jetpack Compose 및 Kotlin Multiplatform을 위한 고성능 이미지 로딩 라이브러리 | Kotlin   | 2.3k |
+| [Balloon](https://github.com/skydoves/balloon)                   | 커스터마이징 가능한 Android용 툴팁 라이브러리                                | Kotlin   | 3.8k |
+| [Sandwich](https://github.com/skydoves/sandwich)                 | Retrofit, Ktor, Kotlin Multiplatform을 위한 API 응답 처리 라이브러리    | Kotlin   | 1.7k |
+| [Orbital](https://github.com/skydoves/Orbital)                   | Jetpack Compose Multiplatform을 위한 애니메이션 라이브러리               | Kotlin   | 1.1k |
+| [Pokedex](https://github.com/skydoves/Pokedex)                   | Jetpack Compose를 활용한 포켓몬 도감 앱 예제                            | Kotlin   | 1.4k |
+| [DisneyMotions](https://github.com/skydoves/DisneyMotions)       | MVVM 아키텍처 기반의 디즈니 앱 데모                                      | Kotlin   | 1.5k |
+| [ExpandableLayout](https://github.com/skydoves/ExpandableLayout) | 인디케이터가 있는 2단계 확장 가능한 레이아웃                                   | Kotlin   | 500+  |
+| [Bindables](https://github.com/skydoves/Bindables)               | Android DataBinding을 위한 데이터 변경 알림 키트                        | Kotlin   | 300+ |
 
-## Java
-* [Netty](https://github.com/netty/netty) Netty project - an event-driven asynchronous network application framework http://netty.io/
-* [Haeinsa](https://github.com/VCNC/haeinsa) Haeinsa is a linearly scalable multi-row, multi-table transaction library for HBase
-
-## Javascript
-* [Summernote](https://github.com/summernote/summernote) Super simple WYSIWYG editor using Bootstrap http://summernote.org/
-* [jews](https://github.com/disjukr/jews) Refine korea news site
-* [yaksok.js](https://github.com/disjukr/yaksok.js) yaksok toolkit http://0xabcdef.com/yaksok.js/
-
-## Ruby
-
-* [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) Git Submodule Alternative for Cocoa.
-
-## Rust
-* [rust-chrono](https://github.com/lifthrasiir/rust-chrono) Date and time library for Rust
-* [rust-encoding](https://github.com/lifthrasiir/rust-encoding) Character encoding support for Rust
-
-## Swift
-
-* [Then](https://github.com/devxoul/Then) ✨ Super sweet syntactic sugar for Swift initializers.
-* [URLNavigator](https://github.com/devxoul/URLNavigator) :boat: Elegant URL Routing for Swift
-
-## ObjC
-* [FoundationExtension](https://github.com/youknowone/FoundationExtension) Foundation/Cocoa/UIKit extension kit http://youknowone.github.com/FoundationExtension
-
-## PHP
-* [php-jira](https://github.com/lesstif/php-jira-rest-client) A PHP client library for integrating with the JIRA issue & bug tracker software.
-
-## Fonts
-* [Spoqa Han Sans](https://github.com/spoqa/spoqa-han-sans) A multigingual font which supports Roman, Hangul, Hiragana, Katakana, Chinese characters, and other punctuation marks  http://www.spoqa-han-sans.com/
